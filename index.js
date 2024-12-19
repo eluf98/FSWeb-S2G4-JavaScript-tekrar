@@ -96,6 +96,8 @@ console.log(CemberinAlani(15, pi));
   besyuzdenkucuksayilar,
   siralisayilar,
   tekraredensayilar;*/
+// asagida kullanilan degiskenler
+//
 
 // 3a çözümü
 
